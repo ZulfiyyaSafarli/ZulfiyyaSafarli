@@ -20,6 +20,9 @@ You can reach me via email at zulfi.safarli@gmail.com, or you can connect with m
 4. Privacy
 5. User education
 6. Resilience
+
+
+
 My strengths in cybersecurity, including technical knowledge, analytical skills, and ethical mindset, align seamlessly with the security goals of any organization. I am committed to proactively safeguarding data and systems, prioritizing integrity and accountability, and promoting user education. With a foundation in programming and adaptability to new technologies, I am well-equipped to address evolving threats and contribute to the organization's resilience in the face of cybersecurity challenges.
 <!---
 ZulfiyyaSafarli/ZulfiyyaSafarli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
